@@ -5,7 +5,7 @@
 - file: syllabus
   sections:
     - file: mac_setup
-
+- file: bayeserror.ipynb
 
 
 
